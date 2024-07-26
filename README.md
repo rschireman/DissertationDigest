@@ -7,3 +7,4 @@ DissertationDigest leverages the cutting-edge Sieve AI technology to transform h
 2. AI-Powered Summarization: The app uses Sieve's advanced natural language processing to generate concise, accurate summaries of each video.
 3. Key Point Extraction: DissertationDigest identifies and highlights the most crucial information, saving you hours of note-taking.
 
+![](./interface.png)
